@@ -23,7 +23,7 @@
 
 
 //FUNCTIONS
-
+<input type="button" style="background: url( img.jpg )" />;
 
 
 // DOCUMENT READY FUNCTION
