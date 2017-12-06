@@ -19,12 +19,21 @@
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 
 //GLOBAL VARIABLES
+var userChoice=();
 
+var computerChoice=();
+
+var winner();
 
 
 //FUNCTIONS
-<input type="button" style="background: url( img.jpg )" />;
+
 
 
 // DOCUMENT READY FUNCTION
 
+
+
+
+
+ 
